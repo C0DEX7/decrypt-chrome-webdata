@@ -1,4 +1,4 @@
-# Decrypt Chrome Passwords
+# Decrypt Chrome Web Data
 A simple program to decrypt chrome password saved on your machine. <br>
 This code has only been tested on windows, so it may not work on other OS.<br>
 It work with every browser that have "Local State" and "Web Data" files.<br>

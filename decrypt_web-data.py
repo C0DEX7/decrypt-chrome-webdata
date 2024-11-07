@@ -8,8 +8,8 @@ from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
 
 # Customize file paths here
-local_state_path = r"C:\Users\tomas\AppData\Local\Google\Chrome\User Data\Local State"
-web_data_path = r"C:\Users\tomas\OneDrive\Plocha\Web Data"
+local_state_path = r"C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Local State"
+web_data_path = r"C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Web Data"
 credit_card_file_path = "decrypted_credit_cards.txt"
 other_data_file_path = "decrypted_other_data.txt"
 

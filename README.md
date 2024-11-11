@@ -8,11 +8,11 @@ It work with every browser that have "Local State" and "Web Data" files.<br>
 
 ## Dependencies (requirements)
 1. pysqlite3
-2. pycryptodome
+2. pycryptodomex
 3. pywin32
 4. cryptography
    
-pip install pysqlite3 pycryptodome cryptography pywin32
+pip install pysqlite3 pycryptodomex cryptography pywin32
 
 ## Usage
 python decrypt_web-data.py<br>
